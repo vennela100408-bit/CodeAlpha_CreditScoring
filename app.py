@@ -114,7 +114,7 @@ st.markdown("""
 # MODEL LOCATION
 # =========================================================
 
-MODEL_PATH = "models/credit_scoring_model.pkl"
+MODEL_PATH = "credit_scoring_model.pkl"
 
 
 # =========================================================
